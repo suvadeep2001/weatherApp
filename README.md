@@ -2,8 +2,12 @@
 
 This is a weather app using node js and openweathermap api . I have used aios library for fetching the apis. I have followed MVC pattern to make it production ready application. 
 
+## how to start the app ?
+
 ```sh
 npm install
+
+node src/app.js
 ```
 
 ## You have to install some packages
